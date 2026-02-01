@@ -147,13 +147,7 @@ streamlit run app.py
 Upload:
 - `har_test.csv` (best option, includes `Activity` labels)
 
-### j. Deployment (Streamlit Community Cloud)
-1. Push your project to GitHub.
-2. Ensure `requirements.txt` exists and installs successfully.
-3. Ensure `app.py` is present at the repository root.
-4. Go to Streamlit Community Cloud and deploy by selecting your GitHub repository.
-5. After deployment, copy the public URL and include it in the final submission PDF.
 
-### k. Links 
+### j. Links 
 - **GitHub Repository Link:** <https://github.com/2025ab05177/ml-assignment-2>
 - **Live Streamlit App Link:** <https://ml-assignment-2-5su8o7ueh2ovvlrojv64pf.streamlit.app/>
