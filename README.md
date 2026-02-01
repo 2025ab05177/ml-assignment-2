@@ -154,13 +154,6 @@ Upload:
 4. Go to Streamlit Community Cloud and deploy by selecting your GitHub repository.
 5. After deployment, copy the public URL and include it in the final submission PDF.
 
-### k. Links (Fill before final submission)
-- **GitHub Repository Link:** <PASTE_YOUR_GITHUB_REPO_LINK_HERE>
-- **Live Streamlit App Link:** <PASTE_YOUR_STREAMLIT_APP_LINK_HERE>
-
-### l. Submission Notes (As per Assignment)
-The final PDF submission should include:
-1. GitHub repository link (source code, `requirements.txt`, and `README.md`)
-2. Streamlit cloud app link (clickable)
-3. Screenshot of execution on BITS Virtual Lab
-4. README content (copied into PDF)
+### k. Links 
+- **GitHub Repository Link:** <https://github.com/2025ab05177/ml-assignment-2>
+- **Live Streamlit App Link:** <https://ml-assignment-2-5su8o7ueh2ovvlrojv64pf.streamlit.app/>
